@@ -35,5 +35,5 @@ export const setStudents = (students) => {
  */
 const initCache = () => {
     console.log("initializing students cache...");
-    studentsCache.set("students", studentsJson);
+    studentsCache.set("students", studentsJson, 3600);
 };
