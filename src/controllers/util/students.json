@@ -1,0 +1,52 @@
+[
+    {
+        "id": "0a659080-7673-46a8-ad8d-b928156499f8",
+        "active": true,
+        "email": "juan@student.com",
+        "emailVerified": true,
+        "country": "CL",
+        "gender": "male",
+        "name": "Juan",
+        "age": 30
+    },
+    {
+        "id": "3282be65-b38f-4f73-bf23-aefcdcdf9a2b",
+        "active": false,
+        "email": "John@student.com",
+        "emailVerified": true,
+        "country": "US",
+        "gender": "male",
+        "name": "John",
+        "age": 25
+    },
+    {
+        "id": "e366c0a6-d022-4df2-ac54-4b4a2c75173e",
+        "active": true,
+        "email": "Jessica@student.com",
+        "emailVerified": true,
+        "country": "CA",
+        "gender": "female",
+        "name": "Jessica",
+        "age": 27
+    },
+    {
+        "id": "c90c5bde-55fe-4731-b0c7-b471ee85ec0d",
+        "active": true,
+        "email": "roxane@student.com",
+        "emailVerified": true,
+        "country": "EC",
+        "gender": "female",
+        "name": "roxane",
+        "age": 24
+    },
+    {
+        "id": "ef5d6398-99ba-4bed-a828-22c50537c19a",
+        "active": true,
+        "email": "Robert@student.com",
+        "emailVerified": true,
+        "country": "NZ",
+        "gender": "male",
+        "name": "Robert",
+        "age": 19
+    }
+]

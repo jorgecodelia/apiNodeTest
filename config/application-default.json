@@ -1,0 +1,6 @@
+{
+    "feature": {
+        "ffDeleteStudent": true,
+        "ffCreateStudent": false
+    }
+}
